@@ -16,7 +16,6 @@ Console.WriteLine("\n" +
                     "лучше обойтись исключительно массивами" +
                     "\n");
 
-
 int GetArraySizeFromUser()
 {
     int size = 0; // переменная по умолчанию
